@@ -7,7 +7,7 @@
 
 <p align="center">
     [Desafio de Projeto - Como organizar sua vida financeira com planilhas inteligentes e IAxlsx](https://github.com/output/Desafio de Projeto - Como organizar sua vida financeira com planilhas inteligentes e IA.xlsx)
-</p>
+  </p>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
