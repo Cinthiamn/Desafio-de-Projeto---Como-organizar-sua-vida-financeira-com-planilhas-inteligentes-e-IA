@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    [Desafio de Projeto - Como organizar sua vida financeira com planilhas inteligentes e IApodcast Meditaê.xlsx](https://github.com/Cinthiamn/prompts-for-podcast-generate-by-ia/blob/ba3f8793e0175f9ae95c866c1f3f656173c50b8d/output/DESAFIO%20PROJETO%20-%20PODCAST.mp4)
+    [Desafio de Projeto - Como organizar sua vida financeira com planilhas inteligentes e IAxlsx](https://github.com/output/Desafio de Projeto - Como organizar sua vida financeira com planilhas inteligentes e IA.xlsx)
 </p>
 
 <div align="center">
