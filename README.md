@@ -9,14 +9,6 @@
     [Desafio de Projeto - Como organizar sua vida financeira com planilhas inteligentes e IA.xlsx](https://github.com/Cinthiamn/Desafio-de-Projeto---Como-organizar-sua-vida-financeira-com-planilhas-inteligentes-e-IA/blob/909073514a94a9979ddd261a4a4877e9ec495335/output/Desafio%20de%20Projeto%20-%20Como%20organizar%20sua%20vida%20financeira%20com%20planilhas%20inteligentes%20e%20IA.xlsx)
   </p>
 
-<p align="center">
-<iframe 
-    src="./output/Desafio%20de%20Projeto%20-%20Como%20organizar%20sua%20vida%20financeira%20com%20planilhas%20inteligentes%20e%20IA.xlsx"
-    width="300"
->
-</iframe>
-</p>
-
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
