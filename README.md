@@ -15,7 +15,6 @@
     width="300"
 >
 </iframe>
-    />
 </p>
 
 <div align="center">
